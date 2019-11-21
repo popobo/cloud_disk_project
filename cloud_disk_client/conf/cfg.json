@@ -1,0 +1,14 @@
+{
+    "login": {
+        "pwd": "",
+        "remember": "",
+        "user": ""
+    },
+    "type_path": {
+        "path": "../YunDemo/conf/fileType"
+    },
+    "web_server": {
+        "ip": "122.51.106.149",
+        "port": "80"
+    }
+}
