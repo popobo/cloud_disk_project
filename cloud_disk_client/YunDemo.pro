@@ -25,6 +25,7 @@ DEFINES += QT_DEPRECATED_WARNINGS
 CONFIG += c++11
 
 SOURCES += \
+    common/login_info_instance.cpp \
     titlewg.cpp \
     login.cpp \
     main.cpp \
